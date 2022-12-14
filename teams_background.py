@@ -9,7 +9,7 @@ from PIL import Image
 
 opeai_api_key = 'YOUR_OPENAI_API_KEY'
 background_image_path = '/Users/YOUR_USER/Library/Application Support/Microsoft/Teams/Backgrounds/Uploads/'
-background_image_name = 'YOUR_CUSTOM_IMAGE_NAME' # e.g. star-wars-backgrounds-04_thumb.jpg
+background_image_name = 'YOUR_CUSTOM_IMAGE_NAME' # e.g. star-wars-background.jpg
 
 background_original_image_name = 'original-' + background_image_name
 
