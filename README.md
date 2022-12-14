@@ -2,7 +2,7 @@
 
 Uploads AI generated image to MS Teams folder.
 
-AI image generator DALL·E API (https://openai.com)
+AI image generator DALL·E API (https://openai.com) \
 AI prompt generator (https://www.aiprompt.io)
 
 ## Steps:
